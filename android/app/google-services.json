@@ -1,0 +1,86 @@
+{
+  "project_info": {
+    "project_number": "197394152290",
+    "project_id": "derapidos-7b0c0",
+    "storage_bucket": "derapidos-7b0c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197394152290:android:07dab7915d8a6d16050a3b",
+        "android_client_info": {
+          "package_name": "com.highapp.co.uk.derapidos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "197394152290-6ettubujpp35161au40kt9gccgfl0h73.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.highapp.co.uk.derapidos",
+            "certificate_hash": "6eab90122152204ce6dfe0637391c6a4f307bc57"
+          }
+        },
+        {
+          "client_id": "197394152290-hm97cf010rokbjolas4oano4k9lh4clg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.highapp.co.uk.derapidos",
+            "certificate_hash": "7ac8671c20f87563185372c2c0c837faf7a20791"
+          }
+        },
+        {
+          "client_id": "197394152290-ietfqvv0787f7nv8m8fle0etnsh5dsff.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.highapp.co.uk.derapidos",
+            "certificate_hash": "32cda3ebf22b57a22a26a54a3618f7a1201cfb6d"
+          }
+        },
+        {
+          "client_id": "197394152290-p12d1ks1sblgscvb19boumudrddupgoh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.highapp.co.uk.derapidos",
+            "certificate_hash": "829723698ec94b5ad814353581f7e393436eeb2e"
+          }
+        },
+        {
+          "client_id": "197394152290-qqamu4c3dgcdr57g56lhdev55hef7tuu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.highapp.co.uk.derapidos",
+            "certificate_hash": "0aaa293311b019d5390f5d91ec3851aed1d71175"
+          }
+        },
+        {
+          "client_id": "197394152290-sq7hmvqe0u0nkrkol29fiqkr2mqnifkd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtHsZuzX6flaZUwt0INRVAy9XAZnkyJcM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "197394152290-sq7hmvqe0u0nkrkol29fiqkr2mqnifkd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "197394152290-foqflqqa94i271hag101quj4qj8mttne.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.highapp.co.uk.derapidos"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
